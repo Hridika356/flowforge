@@ -4,6 +4,9 @@ FlowForge is a full-stack project and task manager. Users sign up, create projec
 
 ![Project board](docs/board.png)
 
+**Live demo:** https://flowforge-89tc.vercel.app
+_(Hosted on a free plan, so the first load after inactivity can take about a minute.)_
+
 ## Features (MVP)
 
 - Registration and login with BCrypt-hashed passwords and JWT authentication
